@@ -1,47 +1,46 @@
 ---
-layout: default
+layout: home
 title: Abhijay Gopal
 ---
 
-# Abhijay Gopal
+# 👋 Hi, I'm Abhijay Gopal
 
-Electrical & Electronics Engineer  
-AI • Space Technology • Cybersecurity Enthusiast
-
----
-
-## About Me
-I am an Electrical and Electronics Engineering graduate passionate about Artificial Intelligence, Space Technology, and Cybersecurity. I was a Smart India Hackathon 2023 Finalist for an AI-based Hydro Power Plant solution and actively contribute to IEEE global initiatives. My interests include space communication systems, intelligent energy systems, and advanced technological research.
+### Electrical & Electronics Engineer  
+### AI • Space Technology • Cybersecurity Enthusiast
 
 ---
 
-## Projects
-### AI-Based Hydro Power Plant
-AI-driven system for intelligent power demand prediction and energy optimization.
-
-### Hybrid Vehicle Project
-Testing and development of hybrid vehicle systems focusing on efficiency and control.
-
-### Cybersecurity Learning Journey
-Hands-on learning in ethical hacking, cybersecurity fundamentals, and system security.
+## 🚀 About Me
+Electrical and Electronics Engineering graduate passionate about intelligent systems, space communication, and cybersecurity. Smart India Hackathon 2023 Finalist for an AI-based Hydro Power Plant solution and active IEEE leader contributing to global technical initiatives.
 
 ---
 
-## Research Interests
+## 🧠 Research Interests
 - Space Communication Systems
 - Artificial Intelligence Applications
 - Power System Optimization
-- Cybersecurity & Critical Infrastructure Protection
+- Cybersecurity & Critical Infrastructure
 
 ---
 
-## Certifications
-- Cyber Security Essentials – IIT Ropar & TCS
-- IEEE Leadership & Volunteer Programs
+## 🛠 Projects
+### 🔹 AI-Based Hydro Power Plant
+AI-driven demand prediction and energy optimization system.
+
+### 🔹 Hybrid Vehicle Development
+Testing and control optimization for hybrid propulsion systems.
+
+### 🔹 Cybersecurity Learning Lab
+Hands-on ethical hacking and system security exploration.
 
 ---
 
-## Contact
-📧 Email: Abhijaygopal.s@gmail.com
-🔗 LinkedIn: (add your LinkedIn link later)  
-💻 GitHub: https://github.com/ABHIJAY-GOPAL
+## 📜 Certifications
+- Cyber Security Essentials — IIT Ropar & TCS
+- IEEE Leadership Programs
+
+---
+
+## 📫 Contact
+Email: your-email@example.com  
+GitHub: https://github.com/ABHIJAY-GOPAL
